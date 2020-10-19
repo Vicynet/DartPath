@@ -21,4 +21,7 @@ main(List<String> args) {
   print(y);
   print(z);
 
+  int numb;
+  print(numb??100);
+
 }
